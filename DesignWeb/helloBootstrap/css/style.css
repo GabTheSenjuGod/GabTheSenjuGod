@@ -1,0 +1,32 @@
+.rouge{
+    /*on fait jamais sa */
+    height: 400px;
+    /* mettre un hauteur fix en BS*/
+    background-color: red;
+}
+.bleu{
+    height: 400px;
+    background-color: blue;
+}
+.jaune{
+    height: 400px;
+    background-color: yellow;
+}
+.vert{
+    height: 400px;
+    background-color: green;
+}
+.bg{ background-image: url("../img/ce7f55d0ce9ec88c238f4f0f5731d809 (1).jpg");
+height: 800px;
+}
+.blanc{
+    height: 400px;
+    background-color: white;
+}
+hr{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: olive;
+}
