@@ -23,10 +23,34 @@ height: 800px;
     height: 400px;
     background-color: white;
 }
+.olive{
+    background-color: olive;
+}
 hr{
     margin-bottom: 30px;
     margin-top: 30px;
     max-width: 50px;
     border-width: 3px;
     border-color: olive;
+}
+.bg2{
+    height: 400px;
+    background-color: olive;
+}
+.Noir{
+    height: 400px;
+    background-color: #343a40;
+}
+.bg3{
+background-image: url("../img/iphone-xr-select-2019-family.jpg");
+
+}
+.bg4{
+    background-image: url("../img/iphone-xr-select-2019-family.jpg");
+}
+.noir{
+    background-color: #23272b;
+}
+.police{
+    font-style:;
 }
