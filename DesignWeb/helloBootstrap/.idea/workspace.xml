@@ -25,11 +25,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1QPyAady3QcVsfu4kOItRLhHJHQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Thedford" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -71,10 +72,31 @@
       <workItem from="1568297399767" duration="5754000" />
       <workItem from="1568394989558" duration="667000" />
       <workItem from="1568660887732" duration="6317000" />
+      <workItem from="1568667569007" duration="6314000" />
+      <workItem from="1568902350694" duration="1282000" />
+      <workItem from="1569259150697" duration="688000" />
+      <workItem from="1569265809428" duration="129000" />
+      <workItem from="1569266647748" duration="899000" />
+      <workItem from="1569327603365" duration="3319000" />
+      <workItem from="1569875320311" duration="1816000" />
+      <workItem from="1570111888821" duration="507000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

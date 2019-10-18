@@ -1,3 +1,5 @@
+
+
 .rouge{
     /*on fait jamais sa */
     height: 400px;
@@ -17,7 +19,8 @@
     background-color: green;
 }
 .bg{ background-image: url("../img/ce7f55d0ce9ec88c238f4f0f5731d809 (1).jpg");
-height: 800px;
+    height: 800px;
+    background-position: center ;
 }
 .blanc{
     height: 400px;
@@ -40,6 +43,7 @@ hr{
 .Noir{
     height: 400px;
     background-color: #343a40;
+
 }
 .bg3{
 background-image: url("../img/iphone-xr-select-2019-family.jpg");
@@ -54,3 +58,37 @@ background-image: url("../img/iphone-xr-select-2019-family.jpg");
 .police{
     font-style:;
 }
+.dropbtn {
+    background-color: white;
+    color: #0c5460;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #1d2124;}
