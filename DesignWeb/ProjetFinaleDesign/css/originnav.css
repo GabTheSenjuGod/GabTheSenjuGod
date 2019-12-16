@@ -1,0 +1,143 @@
+
+
+html,body{
+    margin: 0;
+    height: 100%;
+}
+
+
+
+
+.navbar {
+    background-color: #e0a800;
+}
+.navbar .navbar-brand {
+    color: #ecf0f1;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #eee6e6;
+}
+.navbar .navbar-text {
+    color: #ecf0f1;
+}
+.navbar .navbar-text a {
+    color: #eee6e6;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #eee6e6;
+}
+.navbar .navbar-nav .nav-link {
+    color: #ecf0f1;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #eee6e6;
+}
+.navbar .navbar-nav .dropdown-menu {
+    background-color: #1b75b0;
+    border-color: #d4ced6;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+    color: #ecf0f1;
+}
+
+
+.dropbtn {
+    background-color: #1d2124;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: #dddddd;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #343a40;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #721c24;}
+
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/masyaf_discovery___assassins_creed_revelations-wallpaper-1920x1080.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.black{
+    background-color: black;
+}
+#video1{
+    width: 1903px;
+}
+
+.bg11{
+    background-color: #004085;
+}
+.bg1{
+    background-color: #721c24 ;
+}
+.bg13{
+    background-image: url("../img/assassins_creed___revelations_2-wallpaper-1920x1080.jpg");
+    height: 800px;
+}
+.parallax2 {
+    /* L’image du Parallax */
+    background-image: url("../img/assassins_creed_revelations_concept_art-wallpaper-1920x1080.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.police1{
+    font-family: "Arial Black", sans-serif;
+    font-style: oblique;
+    text-shadow: #343a40;
+
+}
+.police2{
+    text-shadow: black;
+}
+
+.red{
+    color: #721c24;
+}
+.blue{
+    color: #004085;
+}

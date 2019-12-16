@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+}
+html,body{
+    height: 100%;
+    padding: 0;
+}
+
+.col7 {
+  width: 14.2857142857%;
+  float: left;
+}
+
+.img-fluid {
+  width: 100%;
+  display: block;
+}
+
+#link{
+    width: 200px;
+}
+#alphabetPhoto {
+    width: 1000px;
+}
+/*# sourceMappingURL=style.css.map */

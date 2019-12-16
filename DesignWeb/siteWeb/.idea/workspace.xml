@@ -30,7 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Thedford" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -70,7 +70,16 @@
       <workItem from="1570537293364" duration="6942000" />
       <workItem from="1570628771078" duration="13455000" />
       <workItem from="1570716410376" duration="32856000" />
-      <workItem from="1571420182329" duration="1206000" />
+      <workItem from="1571420182329" duration="1807000" />
+      <workItem from="1571684748873" duration="1559000" />
+      <workItem from="1571748420159" duration="38000" />
+      <workItem from="1571927794146" duration="1955000" />
+      <workItem from="1572289282798" duration="632000" />
+      <workItem from="1574718027161" duration="648000" />
+      <workItem from="1574774559191" duration="160000" />
+      <workItem from="1575319963389" duration="3437000" />
+      <workItem from="1575379535585" duration="6529000" />
+      <workItem from="1575567949219" duration="4553000" />
     </task>
     <servers />
   </component>
